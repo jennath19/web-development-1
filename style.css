@@ -1,0 +1,29 @@
+.sei{
+ margin: 50px;
+ margin-top: 50px;
+}
+ .btn{
+    background-color: #4c4cf5;
+    border-radius: 10px;
+    color: rgb(232, 232, 235);
+    margin-left: 140px;
+    margin-top: 5px;
+    font-size: 11px;
+    padding-left:15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+.btn:hover{
+    background-color: gray;
+    color: rgb(245, 240, 240);
+}
+h1{
+    font-size: 25px;
+    margin-left: 20px;
+}
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210912/pngtree-aesthetic-background-pink-pastel-image_866344.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
